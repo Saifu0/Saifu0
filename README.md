@@ -27,7 +27,7 @@ My name is Saifur Rehman Khan and I'm a Computer Science student, Full Stack dev
 </a>
 
 
-<a href="https://github.com/Saifu0/team">
+<a href="https://github.com/nihal-ahmad/Trackify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saifu0&repo=team&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
  <a href="https://github.com/Saifu0/student-leaderboard">
