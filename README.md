@@ -27,8 +27,8 @@ My name is Saifur Rehman Khan and I'm a Computer Science student, Full Stack dev
 </a>
 
 
-<a href="https://github.com/nihal-ahmad/Trackify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-ahmad&repo=Trackify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Saifu0/trackify-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nihal-ahmad&repo=trackify-backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
  <a href="https://github.com/Saifu0/dockerized-asynchronous-webserver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saifu0&repo=dockerized-asynchronous-webserver&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -42,7 +42,7 @@ My name is Saifur Rehman Khan and I'm a Computer Science student, Full Stack dev
 [LinkedIn](https://www.linkedin.com/in/saifur-rehman-khan-5770a9172/)
 
 ## Other Links
-[Resume](https://drive.google.com/file/d/18ThT9vF_ZbS5gegjYOBl0rTwGoJnfhUq/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1RciXgfhS3qv0lDQMrEpA8cR1_VVuJdS9/view?usp=sharing)
 
 [CodeForces](https://codeforces.com/profile/.Pain.)
 
